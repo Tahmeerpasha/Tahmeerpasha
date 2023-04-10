@@ -1,5 +1,5 @@
-Hi 👋 My name is Tahmeer Pasha
-==============================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tahmeer Pasha
+=====================================================================================================================================
 
 Frontend Developer
 ------------------
@@ -11,11 +11,6 @@ I'm a beginner in front end development, currently in my 3rd year undergrad base
 * 🧠  I'm learning React.js
 * 🤝  I'm open to collaborating on Frontend projects
 * ⚡  Love to make connections. If you've come this far then checkout my social profiles and lets connect
-
-<a href="https://www.github.com/Tahmeerpasha" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Tahmeerpasha?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/IamTahmeer" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/IamTahmeer?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 
 ### Skills
 
