@@ -7,7 +7,7 @@ Frontend Developer
 I'm a beginner in front end development, currently in my 3rd year undergrad based out of Bangalore India.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [tahmeerpashacjc@gmail.com](mailto:tahmeerpashacjc@gmail.com)
+* ✉️  You can contact me at [tahmeer.work@gmail.com](mailto:tahmeer.work@gmail.com)
 * 🧠  I'm learning React.js
 * 🤝  I'm open to collaborating on Frontend projects
 * ⚡  Love to make connections. If you've come this far then checkout my social profiles and lets connect
