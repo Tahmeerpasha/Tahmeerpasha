@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I'm a beginner in front end development, currently in my 3rd year undergrad based out of Bangalore India.
+I'm a beginner in front end development, currently in my final year undergrad based out of Bangalore India.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [tahmeer.work@gmail.com](mailto:tahmeer.work@gmail.com)
