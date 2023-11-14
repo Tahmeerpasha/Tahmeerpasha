@@ -8,8 +8,8 @@ I'm a beginner in front end development, currently in my final year undergrad ba
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [tahmeer.work@gmail.com](mailto:tahmeer.work@gmail.com)
-* 🧠  I'm learning React.js
-* 🤝  I'm open to collaborating on Frontend projects
+* 🧠  I'm currently learning backend development in Spring Boot.
+* 🤝  I'm open to collaborating on Frontend and Backend projects
 * ⚡  Love to make connections. If you've come this far then checkout my social profiles and lets connect
 
 ### Skills
