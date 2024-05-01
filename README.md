@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tahmeer Pasha
 =====================================================================================================================================
 
-Full Stack Java Developer
+Full Stack Developer
 ------------------
 
-I'm a full stack java development enthusiast, currently in my final year undergrad based out of Bangalore India.
+I'm a full stack development enthusiast, currently in my final year undergrad based out of Bangalore India.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [tahmeer.work@gmail.com](mailto:tahmeer.work@gmail.com)
-* 🧠  I'm currently learning backend development in Spring Boot.
+* 🧠  I'm currently learning backend development in NodeJS.
 * 🤝  I'm open to collaborating on Frontend and Backend projects
 * ⚡  Love to make connections. If you've come this far then checkout my social profiles and lets connect
 
