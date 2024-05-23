@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 ------------------
 
-I'm a full stack development enthusiast, currently in my final year undergrad based out of Bangalore India.
+Hey there! I'm a full stack developer based out of Bangalore, India. I am currently looking for opportunities in frontend and full stack development.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [tahmeer.work@gmail.com](mailto:tahmeer.work@gmail.com)
-* 🧠  I'm currently learning backend development in NodeJS.
+* 🧠  I'm currently preparing for interviews.
 * 🤝  I'm open to collaborating on Frontend and Backend projects
 * ⚡  Love to make connections. If you've come this far then checkout my social profiles and lets connect
 
