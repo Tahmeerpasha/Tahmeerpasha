@@ -12,9 +12,9 @@ I'm not just a developer; I have a keen interest in startups and business. I und
 * 🖥️  See my portfolio at [tahmeer.tech](http://tahmeer.tech)
 * ✉️  You can contact me at [tahmeer.work@gmail.com](mailto:tahmeer.work@gmail.com)
 * 🚀  I'm currently working on [Social Sphere](http://(s)://social-sphere-frontend.vercel.app)
-* 🧠  I'm learning Interview preparation in JS
+* 🧠  I'm learning DSA and System design
 * 🤝  I'm open to collaborating on Full stack projects and blogging.
-* ⚡  I'm currently looking for opportunities in frontend or full stack development.
+* ⚡  I'm currently looking for opportunities in backend or full stack development.
 
 <a href="https://www.github.com/Tahmeerpasha" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Tahmeerpasha?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/IamTahmeer" target="_blank" rel="noreferrer"><img
